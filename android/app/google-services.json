@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871095766281",
+    "project_id": "fcrreport",
+    "storage_bucket": "fcrreport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871095766281:android:fa9042822eebcafc6d17d8",
+        "android_client_info": {
+          "package_name": "com.example.fcr_report"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDenfs7oppzlH11J4D352-tW_qpcQzsOx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
